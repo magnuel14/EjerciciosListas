@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author magnuel
+ * @author Juan Pablo
  */
 public class DiagonalesTRaspuestas {
 
