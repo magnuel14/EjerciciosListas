@@ -8,7 +8,7 @@ package com.mycompany.ejercicioslistas.ProblemaAB;
 
 /**
  *
- * @author magnuel
+ * @author Juan Pablo
  */
 import java.util.Scanner;
 import javax.swing.JOptionPane;
